@@ -2,7 +2,7 @@
 
 ## Book
 
-[Book] (https://pages.cs.wisc.edu/~remzi/OSTEP/)
+[Book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ## Lecture Schedule
 
