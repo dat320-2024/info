@@ -18,8 +18,8 @@ Here are two videos describing these steps: [Part 1 (~10 minutes)](https://youtu
    You will have write access to this repository.
    Your solution to the assignments should be pushed here.
 
-2. First, you will need to set up SSH for GitHub authentication with password-less login.
-   We made a video [tutorial (19:34)](https://youtu.be/qik3HHZW6C0) describing the steps.
+2. First, you will need to set up SSH for GitHub authentication.
+   This guide details the steps [Setting up SSH for GitHub](https://github.com/dat320-2024/info/blob/main/github-ssh.md)
 
 3. Once ssh is configured, you need to decide on a suitable location for your workspace for the course.
    In this guide we will use `$HOME/dat320-2024` as the workspace.
