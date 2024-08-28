@@ -1,5 +1,8 @@
 # Setting up GitHub with SSH authentication
 
+This guide is based on the [documentation at GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) and is tested in WSL.
+The linked document has guides for Mac and Windows.
+
 ## Check for existing SSH keys
 
 You should check if you have any existing SSH keys before generating new ones.
