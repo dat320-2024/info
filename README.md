@@ -21,4 +21,4 @@ The assignments will be managed using [Quickfeed](https://uis.itest.run/)
 
 ## Discord
 
-https://discord.gg/G9q3cfma5k
+https://discord.gg/8AAUGB7aXF
