@@ -2,23 +2,28 @@ package main
 
 import (
 	"fmt"
-	"os"
 
+	//"github.com/dat320-2024/info/coding-sessions/live-go/caching"
+	"github.com/dat320-2024/info/coding-sessions/live-go/concu"
 	"github.com/dat320-2024/info/coding-sessions/live-go/scheduling"
-	"github.com/dat320-2024/info/coding-sessions/live-go/terminal"
-	"github.com/dat320-2024/info/coding-sessions/live-go/utils"
 )
 
 func main() {
-	fmt.Println("DAT320 terminal")
-	utils.DemoQueue()
-	utils.SliceFromArrayDemo()
-	utils.SliceMakeDemo()
-	terminal := terminal.NewTM()
-	name := os.Args[1]
-	terminal.Run(name)
+	//fmt.Println("DAT320 terminal")
+	//utils.DemoQueue()
+	//utils.SliceFromArrayDemo()
+	//utils.SliceMakeDemo()
+	//terminal := terminal.NewTM()
+	//name := os.Args[1]
+	//terminal.Run(name)
 
 	//RunLottery()
+	//m := caching.Create_Matrix(1000, 4096)
+	//caching.LoopByRows(*m)
+	//caching.LoopByColumns(*m)
+
+	concu.RunRC()
+
 }
 
 func RunLottery() {
