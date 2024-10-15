@@ -4,6 +4,7 @@ import (
 	"fmt"
 
 	//"github.com/dat320-2024/info/coding-sessions/live-go/caching"
+
 	"github.com/dat320-2024/info/coding-sessions/live-go/concu"
 	"github.com/dat320-2024/info/coding-sessions/live-go/scheduling"
 )
@@ -22,8 +23,10 @@ func main() {
 	//caching.LoopByRows(*m)
 	//caching.LoopByColumns(*m)
 
-	concu.RunRC()
-
+	//con.RunRC()
+	//concu.RunAgentDemo()
+	//concu.RunPrinter()
+	concu.RunCondVar()
 }
 
 func RunLottery() {
